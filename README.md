@@ -8,3 +8,9 @@ A analysis for the New York Citi Bike Program, in which responsible for overseei
 
 Limitation There were 7% user did not provide gender information and most of them (14%) are weekend users so we will not be able to tell if female are more willing to ride on the weekend then they do on weekdays, but we may still determine that male user are the dominant customer at all time
 ![sample screenshot](https://github.com/ThaoLeatherman/CityBike_Tableau/blob/master/weekend.PNG)
+
+Findings 
+
+The current major citi bike riders fall into young male group between 18 -20 but number of femal reiders increases over time as they are showing interest to start riding during the weekend
+
+![sample screenshot](https://github.com/ThaoLeatherman/CityBike_Tableau/blob/master/gender.PNG)
