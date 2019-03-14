@@ -7,3 +7,4 @@ A analysis for the New York Citi Bike Program, in which responsible for overseei
 ![sample screenshot](https://github.com/ThaoLeatherman/CityBike_Tableau/blob/master/highest%20mileage%20bike.PNG)
 
 
+![sample screenshot](https://github.com/ThaoLeatherman/CityBike_Tableau/blob/master/station's%20popularity%20changes%20over%20time.PNG)
