@@ -1,5 +1,4 @@
-![sample screenshot](https://github.com/ThaoLeatherman/HW15_Interactive_Visualization_and_Dashboards/blob/master/BellyButtonScreenshot.PNG)# Tableau Assignment - Citi Bike Analytics
-
+![sample screenshot](https://github.com/ThaoLeatherman/CityBike_Tableau/blob/master/citi-bike-station-bikes.jpg)
 ## Background
 
 
