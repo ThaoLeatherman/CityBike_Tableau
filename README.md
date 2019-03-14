@@ -8,3 +8,6 @@ A analysis for the New York Citi Bike Program, in which responsible for overseei
 
 
 ![sample screenshot](https://github.com/ThaoLeatherman/CityBike_Tableau/blob/master/station's%20popularity%20changes%20over%20time.PNG)
+
+Limitation There were 7% user did not provide gender information and most of them (14%) are weekend users so we will not be able to tell if female are more willing to ride on the weekend then they do on weekdays, but we may still determine that male user are the dominant customer at all time
+![sample screenshot](https://github.com/ThaoLeatherman/CityBike_Tableau/blob/master/weekend.PNG)
